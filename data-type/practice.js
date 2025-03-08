@@ -166,3 +166,60 @@ const homeAddress = "Phulpur, Mymensingh";
 // #7
 // Can't start variable name with a number. But after first letter we can use number.
 // const 2ndPosition = "Soummya";
+
+
+
+/* --------------------------------------------------------------------------------------------------- */
+
+
+/* 
+* Topic: NaN (Not a Number)
+* Page: 64
+* Practice: 1 to 7
+*/
+
+/* 
+* parseInt() : Convert to integer. 
+* parseFloat() : Convert to float. 
+* toFixed() : Fix number of digits after period & convert to string.
+*/
+
+
+// #1
+const x = '20';
+const newX = parseInt(x) + 10;
+console.log(newX);
+
+// #2
+const a = '3.14159';
+const newA = parseInt(a);
+console.log(newA);
+
+// #3
+const string = 'premikBoy';
+const convertedString = parseInt(string);
+console.log(convertedString);
+
+// #4
+const m = 3.456;
+const n = 2.789;
+const output = (m+n).toFixed(2);
+console.log(output);
+
+// #5
+const y = '56.78';
+const z = '12.34';
+const floatAdd = parseFloat(y) + parseFloat(z);
+console.log(floatAdd);
+
+// #6
+const s = '10.5678';
+const t = '5.4321';
+const newOutput = (parseFloat(s)+parseFloat(t)).toFixed(1);
+console.log(newOutput);
+
+
+// #7
+const p = '42.45689754';
+const newP = parseFloat(parseFloat(p).toFixed(3));
+console.log(newP);
