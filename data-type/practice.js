@@ -76,3 +76,53 @@ let playTime = 3;
 playTime = 0;
 console.log(playTime);
 
+
+
+
+/* --------------------------------------------------------------------------------------------------- */
+
+
+/* 
+* Topic: Comment
+* Page: 56
+* Practice: 1 to 7
+*/
+
+// #1
+// Last Exam Score
+const score = 60;
+
+// #2
+// Radius of a circle
+// Initially set to 0, because user hasn't given the value
+// It will update when user input the value
+const radius = 0;
+
+// #3
+/* My Favorite Dress Count */
+const dress = 3;
+
+// #4
+// Because I scored 100% on my last exam, my father gave me gift money.
+const giftMoney = 100;
+
+// #5
+/* 
+* Programming Hero: 2 hours
+* Marhaba Javascript: 1 hour
+* FreeCodeCamp Practice: 2 hours
+* Grokking Algorithms: 1 hour
+* System Design: 1 hour
+*/
+const studyTime2 = 7;
+
+// #6
+/* 
+* Ankur will get: 95 TK
+* Service Charge: 5 TK
+*/
+const sendMoney = 100;
+
+// #7
+// Product price with delivery fee
+const pay = 585;
