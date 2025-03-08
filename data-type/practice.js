@@ -126,3 +126,43 @@ const sendMoney = 100;
 // #7
 // Product price with delivery fee
 const pay = 585;
+
+
+
+/* --------------------------------------------------------------------------------------------------- */
+
+
+/* 
+* Topic: Variable Name
+* Page: 59-60
+* Practice: 1 to 7
+*/
+
+// #1
+const favoriteFood = "Biryani";
+
+// #2
+const city = "Chittagong";
+const City = "Dhaka";
+console.log(city, City);
+
+// #3
+const userName = "Johan";
+const username = "Jovan";
+console.log(userName, username);
+
+// #4
+const homeAddress = "Phulpur, Mymensingh";
+
+// #5
+// Can't use reserved keyword for variable name
+// const super = 10; 
+
+// #6
+// Can't use reserved keyword for variable name
+// const class = 17; 
+
+
+// #7
+// Can't start variable name with a number. But after first letter we can use number.
+// const 2ndPosition = "Soummya";
