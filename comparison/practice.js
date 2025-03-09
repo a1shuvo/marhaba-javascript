@@ -86,3 +86,46 @@ const didStudy = true;
 const isFriendStudy = false;
 console.log("My friend and I studied today:", didStudy && isFriendStudy);
 
+
+
+/* --------------------------------------------------------------------------------------------------- */
+
+
+/* 
+* Topic: Double or Triple Equal ("==" or "===" )
+* Page: 73
+* Practice: 1 to 7
+*/
+
+// #1
+const myMoney = 50;
+const friendMoney = "50";
+console.log(myMoney == friendMoney, myMoney === friendMoney);
+
+// #2
+const programmingLang = "JavaScript";
+// They both output as 'true', because they have same value and data type.
+console.log(programmingLang == 'JavaScript', programmingLang === 'JavaScript');
+
+// #3
+/* 
+Double Equal (==) checks only values and triple equal (===) checks both values and data types.
+That's why (==) output as 'true' and (===) output as 'false'.
+*/ 
+console.log(25 == "25", 25 === "25");
+
+// #4
+console.log("apple" == "apple", "apple" === "apple");
+
+// #5
+console.log("test" == "TEST", "test" === "TEST");
+
+// #6
+const variableX = 15;
+const variableY = "20";
+console.log(variableX != variableY, variableX !== variableY);
+
+// #7
+const variableA = "hello";
+const variableB = "Hello";
+console.log(variableA == variableB, variableA === variableB);
