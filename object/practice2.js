@@ -1,5 +1,5 @@
 /* 
-* Topic: Object Property Access & Modify
+* Topic: Object Property Access
 * Page: 131-132
 * Practice: 1 to 8
 */
