@@ -1,7 +1,7 @@
 /* 
 * Topic: ES6 & Modern Javascript (Default Parameter)
 * Page: 186
-* Practice: 1-10
+* Practice: 1 to 10
 */
 
 
