@@ -1,6 +1,6 @@
 /* 
 * Topic: Data Access (Optional chaining & nullish coalescing)
-* Page: 343
+* Page: 347
 * Practice: 1 to 6
 */
 
