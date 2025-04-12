@@ -1,6 +1,6 @@
 /*
 * Topic: Class
-* Page: 356-37
+* Page: 356-357
 * Practice: 1 to 8
 */
 
